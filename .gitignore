@@ -1,0 +1,26 @@
+# Unreal Engine generated files (including plugin build output)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE and local workspace files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
